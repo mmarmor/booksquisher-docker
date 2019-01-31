@@ -20,6 +20,7 @@ RUN apk upgrade --update \
       bundler:1.17.3 \
       asciidoctor:1.5.6.1 \
       # asciidoctor \
+      addressable \
       json \
       rake \
       pdf-reader \
