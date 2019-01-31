@@ -30,4 +30,4 @@ The Booksquisher User's Guide at www.booksquisher.com explains step-by-step how 
 
 **About Me**
 
-* The website of [Michael S. Marmor](https://www.michaelmarmor.com), the creator of the Booksquisher Docker image, User's Guide, and Example Book Templates
+* [Michael S. Marmor](https://www.michaelmarmor.com), the creator of the Booksquisher Docker image, User's Guide, and Example Book Templates
