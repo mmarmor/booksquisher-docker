@@ -2,7 +2,7 @@
 
 Start with the [Booksquisher User's Guide](https://www.booksquisher.com/)
 
-Booksquisher is a multi-format book creation system based on [Asciidoctor](https://asciidoctor.org/) and the build scripts used to generate the open source book *[Pro Git 2](https://git-scm.com/book/en/v2)*. Booksquisher consists of [this Docker image](https://hub.docker.com/r/marmor/booksquisher) containing all the tools, [example book templates](https://github.com/mmarmor/booksquisher-example-book-templates) located on GitHub, and the [Booksquisher User's Guide](https://www.booksquisher.com/) located at www.booksquisher.com.
+Booksquisher is a multi-format book creation system based on [Asciidoctor](https://asciidoctor.org/) and the build scripts used to generate the open source book _[Pro Git 2](https://git-scm.com/book/en/v2)_. Booksquisher consists of [this Docker image](https://hub.docker.com/r/marmor/booksquisher) containing all the tools, [example book templates](https://github.com/mmarmor/booksquisher-example-book-templates) located on GitHub, and the [Booksquisher User's Guide](https://www.booksquisher.com/) located at www.booksquisher.com.
 
 ## Quick Overview
 
