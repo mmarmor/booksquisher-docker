@@ -1,0 +1,1 @@
+A multiformat book creation system based on Asciidoctor and build scripts from the book Pro Git 2
