@@ -15,6 +15,7 @@ RUN apk upgrade --update \
       gcc \
       libc-dev \
       util-linux \
+      libpng-dev \
       tree \
     && gem install --no-document \
       bundler:1.17.3 \
