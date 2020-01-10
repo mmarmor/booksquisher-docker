@@ -19,7 +19,7 @@ RUN apk upgrade --update \
       tree \
     && gem install --no-document \
       bundler:1.17.3 \
-      asciidoctor:1.5.6.1 \
+      asciidoctor:1.5.6.2 \
       # asciidoctor \
       addressable \
       json \
